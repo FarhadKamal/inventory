@@ -1,6 +1,9 @@
 
 <b>Inventory Management</b>
-
+<pre>
+developed by Farhad Kamal
+for any query please email me at remindfarhad@gmail.com
+</pre>
 <br/>
 <b>Featrues:</b>
 <pre>
