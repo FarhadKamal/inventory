@@ -1,19 +1,19 @@
 
 Inventory Management
 
-
-featrues:
-
-Current stock reprort
-Multiple Location
-Location wise stock
-Account Cost Centre
-
-Good Issue
-Good Receive
-Request Material for purchase
-Stock transfer one location to other location
-
+<br/>
+<b>Featrues:</b>
+<br/>
+Current stock reprort<br/>
+Multiple Location<br/>
+Location wise stock<br/>
+Account Cost Centre<br/>
+<br/>
+Good Issue<br/>
+Good Receive<br/>
+Request Material for purchase<br/>
+Stock transfer one location to other location<br/>
+<br/>
 
   Admin login        | 
    ---------------------| 
