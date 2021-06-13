@@ -19,7 +19,7 @@ This is an Inventory Software that fulfills the functions of
   <li>physical adjustments to stock quantity in accordance to audit</li>
 </ul>
 
-<pre>
+
   Admin login        | 
    ---------------------| 
    **Username** : admin | 
