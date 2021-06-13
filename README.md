@@ -7,8 +7,7 @@ for any query please email me at remindfarhad@gmail.com
 <br/>
 <b>Featrues:</b>
 <pre>
-This is an Inventory Software that fulfills the functions of
-</pre>
+This is an Inventory Software that fulfills the functions of</pre>
 <ul>
   <li>tracking of current available stock of a product in multiple locations, </li>
   <li>auto-calculation of average price of products,</li> 
