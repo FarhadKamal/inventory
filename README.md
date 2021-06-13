@@ -4,9 +4,13 @@
 <br/>
 <b>Featrues:</b>
 <pre>
-Current stock reprort
+Multiple Categories for Products
+Product Ledger report
+Current Stock reprort
+Date wise Stock
 Multiple Location
-Location wise stock
+Mutiple Suppliers
+Location wise Stock
 Account Cost Centre
 
 Purchase history
@@ -27,6 +31,7 @@ Stock transfer one location to other location
 Technology: php7/mysql 
 
 please config the file includes/config.php for Approval Authority
+Database location: sql/inventory.sql
    
    
    
