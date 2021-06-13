@@ -7,22 +7,15 @@ for any query please email me at remindfarhad@gmail.com
 <br/>
 <b>Featrues:</b>
 <pre>
-Multiple Categories for Products
-Product Ledger report
-Current Stock reprort
-Date wise Stock
-Multiple Location
-Mutiple Suppliers
-Location wise Stock
-Account Cost Centre
-
-Purchase history
-Issue history
-
-Good Issue
-Good Receive
-Request Material for purchase
-Stock transfer one location to other location
+This is an Inventory Software that fulfills the functions of
+•	tracking of current available stock of a product in multiple locations, 
+•	auto-calculation of average price of products, 
+•	tracking of allocated resources amongst various cost centre,
+•	tracking of supplies and its sources
+•	product requisition with approval system
+•	issuing stock transfer 
+•	history of product issued and received 
+•	physical adjustments to stock quantity in accordance to audit
 </pre>
 
   Admin login        | 
