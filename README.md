@@ -8,16 +8,19 @@ for any query please email me at remindfarhad@gmail.com
 <b>Featrues:</b>
 <pre>
 This is an Inventory Software that fulfills the functions of
-•	tracking of current available stock of a product in multiple locations, 
-•	auto-calculation of average price of products, 
-•	tracking of allocated resources amongst various cost centre,
-•	tracking of supplies and its sources
-•	product requisition with approval system
-•	issuing stock transfer 
-•	history of product issued and received 
-•	physical adjustments to stock quantity in accordance to audit
 </pre>
+<ul>
+  <li>tracking of current available stock of a product in multiple locations, </li>
+  <li>auto-calculation of average price of products,</li> 
+  <li>tracking of allocated resources amongst various cost centre,</li>
+  <li>tracking of supplies and its sources</li>
+  <li>	product requisition with approval system</li>
+  <li>issuing stock transfer</li> 
+  <li>history of product issued and received</li> 
+  <li>physical adjustments to stock quantity in accordance to audit</li>
+</ul>
 
+<pre>
   Admin login        | 
    ---------------------| 
    **Username** : admin | 
