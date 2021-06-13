@@ -24,7 +24,9 @@ Stock transfer one location to other location
    **Password** : admin | 
    
   
-Technology: php7/mysql  
+Technology: php7/mysql 
+
+please config the file includes/config.php for Approval Authority
    
    
    
