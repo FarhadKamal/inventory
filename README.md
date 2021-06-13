@@ -19,7 +19,7 @@ This is an Inventory Software that fulfills the functions of
   <li>physical adjustments to stock quantity in accordance to audit</li>
 </ul>
 
-
+<pre>
   Admin login        | 
    ---------------------| 
    **Username** : admin | 
@@ -30,6 +30,6 @@ Technology: php7/mysql
 
 please configure the file includes/config.php for Approval Authority
 Database location: sql/inventory.sql
-   
+</pre>
    
    
