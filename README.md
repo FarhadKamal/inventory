@@ -26,7 +26,7 @@ This is an Inventory Software that fulfills the functions of
   
 Technology: php7/mysql 
 
-please config the file includes/config.php for Approval Authority
+please configure the file includes/config.php for Approval Authority
 Database location: sql/inventory.sql
    
    
